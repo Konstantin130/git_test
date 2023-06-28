@@ -1,6 +1,6 @@
 Project git
 
-![ScreenShot](https://raw.githubusercontent.com/скрин.png)
+![ScreenShot](https://raw.github.com/скрин.png)
 Тестовый проект на Python
 
 
